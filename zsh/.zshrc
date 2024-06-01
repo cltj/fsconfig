@@ -4,7 +4,7 @@
 HISTFILE=~/.zsh_history
 
 # Source
-plug "$Home/.config/zsh/aliases.zsh"
+source "$Home/.config/zsh/aliases.zsh"
 
 
 export PATH="$HOME/.local/bin":$PATH
